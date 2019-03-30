@@ -1,2 +1,2 @@
 # limited-website
-repo for our website
+https://limited-systems-design.github.io/limited-website/
