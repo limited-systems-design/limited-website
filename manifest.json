@@ -1,0 +1,6 @@
+{
+  "name": "limited-website",
+  "short_name": "limited-website",
+  "start_url": "/",
+  "display": "standalone"
+}
