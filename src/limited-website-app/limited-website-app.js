@@ -1,4 +1,5 @@
 import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
+import '../components/app-container.js'
 
 /**
  * @customElement
@@ -12,7 +13,7 @@ class LimitedWebsiteApp extends PolymerElement {
           display: block;
         }
       </style>
-      <h2>Hello [[prop1]]!</h2>
+      <app-container></app-container>
     `;
   }
   static get properties() {
